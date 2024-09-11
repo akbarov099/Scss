@@ -397,17 +397,11 @@ header .header_wrapper ul li {
   font-family: "Protest Guerrilla", sans-serif;
 }
 header .header_wrapper button {
-  width: 100px;
-  height: 40px;
+  width: 120px;
+  height: 45px;
   border: none;
   font-size: 18px;
   font-weight: 500;
   color: black;
   font-family: "Protest Guerrilla", sans-serif;
-}
-
-@media (max-width: 1200px) {
-  header {
-    background: #d53333;
-  }
 }/*# sourceMappingURL=main.css.map */

@@ -37,8 +37,8 @@ header {
     }
 
     button {
-      width: 100px;
-      height: 40px;
+      width: 120px;
+      height: 45px;
       border: none;
       font-size: 18px;
       font-weight: 500;
@@ -47,9 +47,3 @@ header {
     }
   }
 }
-
-  @media (max-width: 1200px) {
-    header {
-      background: #d53333;
-    }
-  }
